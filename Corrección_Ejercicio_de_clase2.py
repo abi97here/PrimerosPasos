@@ -1,4 +1,4 @@
-```python
+
 #Realicé corrección a este ejercicio porque el ingreso_promedio me daba un resultado incorrecto, 
 #me faltó abrir y cerrar paréntesis en la operación de suma de ingresos mensuales.
 
